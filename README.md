@@ -1,6 +1,6 @@
 💻 Introdução a Ciencia da Computação
 
-Objetivo da matéria:
+Objetivo da matéria:  
 ⭐Histórico e visão geral de computação como ciência;  
 ⭐Comandos em Linux/Unix;  
 ⭐Programação;  
